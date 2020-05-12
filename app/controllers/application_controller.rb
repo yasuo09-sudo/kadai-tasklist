@@ -1,6 +1,6 @@
-class ApplicationController < ActionController::Base  private
+class ApplicationController < ActionController::Base
 
-include SessionsHelper
+  include SessionsHelper
 
   private
 
